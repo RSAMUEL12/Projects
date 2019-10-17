@@ -1,5 +1,3 @@
-Rohan Samuel: 1802807
-*ReadMe.md file for CS142 Courswork 2: Visualising a System/Algorithm*
 
 NOTE: The visualisation created uses the controlP5 library stored within the libraries folder of the processing sketchbook in order
 to utilise user interaction with the visualisation.
