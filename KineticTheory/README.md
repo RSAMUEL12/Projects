@@ -1,9 +1,7 @@
-#Visualisation of the Kinetic Theory of Gas Molecules#
+# Visualisation of the Kinetic Theory of Gas Molecules #
 
 NOTE: The visualisation created uses the controlP5 library stored within the libraries folder of the processing sketchbook in order
 to utilise user interaction with the visualisation.
-
-__**Visualisation to model the Kinetic Theory of Gas Molecules**__
 
 **INTRODUCTION** 
 This visualisation showcases how gas molecules will act/interact within a container of a variable volume. It showcases the Kinetic
