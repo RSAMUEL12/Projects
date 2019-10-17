@@ -28,7 +28,7 @@ The visualisation can be interacted by using the *GUI sliders* to affect the mod
 The *camera viewpoint* can also be changed by pressing and dragging the mouse from one part of the display to the other. The camera can zoom in using the mouse scroll
 (scrolling up moves forward, scroll down moves backwards).
 
-**WHAT YOU SHOULD SEE**
+### **WHAT YOU SHOULD SEE** ###
 The purpose of the visualisation is to highlight the different relationships Kinetic Theory presents:
 * Increasing Temperature increases the Kinetic Energy of each molecule, hence they move faster.
 * Increasing Mass will decrease the velocity of the molecules since the K.E. stays the same so in order to be equal, velocity must decrease as mass increases to maintain the K.E.
