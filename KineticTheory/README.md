@@ -3,7 +3,7 @@
 NOTE: The visualisation created uses the controlP5 library stored within the libraries folder of the processing sketchbook in order
 to utilise user interaction with the visualisation.
 
-**INTRODUCTION** 
+### **INTRODUCTION** ### 
 This visualisation showcases how gas molecules will act/interact within a container of a variable volume. It showcases the Kinetic
 Theory of gas molecules within a container, which describes the random motion of molecules within a container due to its collisions and interactions within
 the container itself.
@@ -22,7 +22,7 @@ Volume: m^3
 Pressure: Pascals
 Velocity: m/s*
 
-**INTERACTING WITH THE VISUALISATION**
+### **INTERACTING WITH THE VISUALISATION** ###
 The visualisation can be interacted by using the *GUI sliders* to affect the model's/molecules' properties by sliding the mouse along its bar.
 
 The *camera viewpoint* can also be changed by pressing and dragging the mouse from one part of the display to the other. The camera can zoom in using the mouse scroll
